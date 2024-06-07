@@ -1,19 +1,19 @@
-Todo Contract README
-Overview
+## Todo Contract README
+## Overview
 This repository contains a Solidity smart contract named Todo. The Todo contract allows users to manage a list of todos, with functionality to create, update, mark as completed, retrieve, and delete todos. The contract is designed to be owned by a single address, ensuring that only the owner can perform certain actions.
 
-Table of Contents
-Installation
-Usage
-Functions
-License
-Installation
+## Table of Contents
+**Installation**
+**Usage**
+**Functions**
+**License**
+**Installation**
 No installation is required for this contract. It is intended to be deployed to a blockchain network such as Ethereum.
 
-Usage
+## Usage
 To use this contract, you'll need to deploy it to a blockchain network. After deployment, you can interact with it through a web3-enabled front-end application or a tool like Remix IDE.
 
-Deploying the Contract
+## Deploying the Contract
 Compile the contract using a Solidity compiler compatible with the specified pragma version (0.8.22).
 Deploy the compiled contract to a blockchain network of your choice (e.g., Ethereum mainnet, Ropsten, Rinkeby).
 Interacting with the Contract
